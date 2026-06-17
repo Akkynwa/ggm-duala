@@ -1,0 +1,99 @@
+/* app/globals.css */
+@import "tailwindcss";
+
+/* ========================================================================= */
+/* 1. TAILWIND V4 CONFIGURATION THEME BLOCK                                  */
+/* ========================================================================= */
+@theme {
+  /* Brand colors from Elevation Church mapped to Tailwind utilities */
+  --color-primary: var(--color-primary-raw);
+  --color-primary-light: var(--color-primary-light-raw);
+  --color-accent: var(--color-accent-raw);
+  --color-accent-hover: var(--color-accent-hover-raw);
+
+  /* Mapping the theme tokens so 'border-border', 'bg-card', etc., work perfectly */
+  --color-border: var(--border);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+
+  /* Custom spacing utilities */
+  --spacing-header: 4.5rem;
+}
+
+/* ========================================================================= */
+/* 2. DESIGN SYSTEM CSS VARIABLES (Light & Dark Themes)                      */
+/* ========================================================================= */
+:root {
+  /* Raw Theme Colors */
+  --color-primary-raw: #1a1a2e;
+  --color-primary-light-raw: #16213e;
+  --color-accent-raw: #e8b869;
+  --color-accent-hover-raw: #d4a54f;
+
+  /* Standard Theme Interface */
+  --background: #ffffff;
+  --foreground: #1a1a2e;
+  --muted: #f5f5f7;
+  --muted-foreground: #6b7280;
+  --border: #e5e7eb;
+  --card: #ffffff;
+  --card-foreground: #1a1a2e;
+}
+
+.dark {
+  --background: #0f0f1a;
+  --foreground: #f9fafb;
+  --muted: #1a1a2e;
+  --muted-foreground: #9ca3af;
+  --border: #1f2937;
+  --card: #1a1a2e;
+  --card-foreground: #f9fafb;
+}
+
+/* ========================================================================= */
+/* 3. BASE STYLES & LAYERS                                                   */
+/* ========================================================================= */
+@layer base {
+  * {
+    /* Because we registered --color-border up top, border-border is now valid! */
+    @apply border-border;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+/* Custom Components Utility Row */
+@utility container-custom {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 80rem; /* max-w-7xl */
+  padding-left: 1rem; /* px-4 */
+  padding-right: 1rem;
+}
+
+@variant sm (@media (min-width: 640px));
+@variant lg (@media (min-width: 1024px));
+
+@layer utilities {
+  @media (min-width: 640px) {
+    .container-custom {
+      padding-left: 1.5rem; /* sm:px-6 */
+      padding-right: 1.5rem;
+    }
+  }
+  @media (min-width: 1024px) {
+    .container-custom {
+      padding-left: 2rem; /* lg:px-8 */
+      padding-right: 2rem;
+    }
+  }
+}

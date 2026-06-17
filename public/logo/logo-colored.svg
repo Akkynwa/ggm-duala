@@ -1,0 +1,5 @@
+<!-- public/logo/logo-colored.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 164 40" fill="none">
+  <rect width="164" height="40" rx="4" fill="#1a1a2e"/>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#e8b869" font-family="serif" font-size="16" font-weight="bold">GGM</text>
+</svg>

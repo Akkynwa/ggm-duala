@@ -1,0 +1,289 @@
+{
+  "nav": {
+    "home": "Home",
+    "whoWeAre": "Who We Are",
+    "ministries": "Ministries",
+    "sermons": "Sermons",
+    "events": "Events",
+    "give": "Give",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "welcome": "Welcome to grace family",
+      "churchName": "grace of god mission duala",
+      "tagline": "Built for Greatness",
+      "description": "We are a contemporary Christian church dedicated to making a positive impact in our society by helping people discover and live out their God-given purpose.",
+      "findLocation": "Find a Location",
+      "attendOnline": "Attend Online",
+      "becomeMember": "Become a Member"
+    }
+},
+  "welcome": {
+    "title": "You are Welcome Here!",
+    "description": "New here? Get ready to experience a warm family of love, where you're empowered to embrace greatness in life while serving God and humanity. At our core, we believe in living and leading differently.",
+    "joinFamily": "Join our Family"
+  },
+  "events": {
+    "title": "Happening at GGM !!!",
+    "header": {
+      "subtitle": "Events",
+      "title": "What's Happening at GGM duala",
+      "description": "Stay connected with our upcoming services, conferences, and community gatherings. There's always something happening at GGM duala."
+    },
+    "featured": {
+      "subtitle": "Featured Event",
+      "title": "Don't Miss This"
+    },
+    "upcoming": {
+      "title": "Upcoming Events",
+      "description": "Mark your calendar and join us for these exciting events.",
+      "empty": "No upcoming events at this time. Check back soon!"
+    },
+    "past": {
+      "title": "Past Events",
+      "description": "Relive the moments from our previous gatherings.",
+      "empty": "No past events to display yet."
+    },
+    "calendar": {
+      "title": "Stay Updated",
+      "description": "Never miss an event. Subscribe to our calendar and get notified about upcoming services, conferences, and special programs.",
+      "cta": "View Full Calendar"
+    }
+  },
+  "community": {
+    "title": "Join our greatness Community!",
+    "description": "We believe in the power of connections, community, and the strength of a loving family. At the greatness community you will find like-minded individuals who share your interests and journey alongside you.",
+    "description2": "Join our greatness community to experience spiritual growth and meaningful connections.",
+    "cta": "JOIN OUR COMMUNITY"
+  },
+  "counselling": {
+    "title": "Need Counselling?",
+    "description": "Are you facing challenges, seeking guidance, or simply need someone to talk to, we are here for you. Our dedicated team of counselors is available to provide confidential and compassionate support, free of charge.",
+    "cta": "Ask for Prayer"
+  },
+  "music": {
+    "newAlbum": "New Album From EPOP",
+    "albumTitle": "Our Worship",
+    "listenNow": "Listen Now"
+  },
+  "pastors": {
+    "title": "Meet Our Global Lead Pastors",
+    "names": "Pastor mike & Pastor mr micheal",
+    "description": "The grace of god mission duala is pastored by Pastors mike and micheal and supported by a global team of Pastors and Ministers. Pm is an accomplished author, speaker, leadership expert and a relationship coach. PB is a renowned publisher, finance expert and the convener of Made for More Conference for women's empowerment."
+  },
+  "footer": {
+    "attend": "Attend GGM Cameroun Online or a GGM Cameroun Location.",
+    "stayConnected": "Stay Connected",
+    "getUpdates": "Get Updates",
+    "watch": "Watch",
+    "locations": "Locations",
+    "give": "Give",
+    "careers": "Careers",
+    "contactUs": "Contact Us",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms and Conditions",
+    "copyright": "© 2026 GGM duala. All rights reserved. sfintul-techsystem"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "switch": "Switch Language"
+  },
+  "about": {
+    "hero": {
+      "subtitle": "Who We Are",
+      "title": "About GGM Duala"
+    },
+    "story": {
+      "subtitle": "Our Journey",
+      "title": "The Story of GGM Duala",
+      "paragraph1": "GGM Duala was born out of a divine mandate to empower individuals with the transformative power of biblical wisdom and practical principles. From humble beginnings, God has grown this ministry into a global movement.",
+      "paragraph2": "Our journey has been marked by faith, perseverance, and an unwavering commitment to making greatness common. Every step has been guided by the Holy Spirit and fueled by a passion to see lives transformed.",
+      "paragraph3": "Today, we stand as a testament to God's faithfulness, with thousands of lives touched, communities transformed, and a vision that continues to expand across nations."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower individuals with the transformative power of biblical wisdom and practical principles, equipping them to achieve greatness in every aspect of their lives."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be a global movement of empowered individuals making greatness common, transforming societies through the power of God's Word and practical excellence."
+    },
+    "purpose": {
+      "title": "Our Purpose",
+      "description": "To raise a community of believers who live and lead differently, demonstrating the reality of God's kingdom in every sphere of influence."
+    },
+    "values": {
+      "subtitle": "What We Stand For",
+      "title": "Our Core Values",
+      "description": "These values define who we are and guide everything we do.",
+      "items": {
+        "faith": { "title": "Faith", "description": "We believe in the power of God to do the impossible." },
+        "excellence": { "title": "Excellence", "description": "We give our best in everything we do for God." },
+        "love": { "title": "Love", "description": "We demonstrate God's love to everyone without condition." },
+        "integrity": { "title": "Integrity", "description": "We uphold the highest standards of honesty and character." },
+        "service": { "title": "Service", "description": "We serve God and humanity with humility and dedication." },
+        "community": { "title": "Community", "description": "We believe in the power of genuine connections and fellowship." },
+        "growth": { "title": "Growth", "description": "We are committed to continuous spiritual and personal development." },
+        "worship": { "title": "Worship", "description": "We express our love for God through heartfelt praise and worship." }
+      }
+    },
+    "leadership": {
+      "subtitle": "Our Leaders",
+      "title": "Meet Our Global Lead Pastors",
+      "description": "Called by God to shepherd His people with wisdom and love.",
+      "pastor1": "Pastor Micheal",
+      "LeadPastor": "Global Lead Pastor",
+      "pastor1Bio": "An accomplished author, speaker, leadership expert and relationship coach with a passion for empowering leaders.",
+      "pastor2": "Pastor ..",
+      "globalCoLeadPastor": "Co-Pastor Principal Mondial",
+      "pastor2Bio": "A renowned publisher, finance expert and the convener of Made for More Conference for women's empowerment.",
+      "cta": "Learn More About Our Pastors"
+    }
+  },
+  "ministries": {
+    "header": {
+      "subtitle": "Our Ministries",
+      "title": "Get Involved & Serve",
+      "description": "Discover a place where you can grow, connect, and make a difference. There's a ministry for everyone at GGM Duala."
+    },
+    "items": {
+      "children": { "title": "Children's Ministry", "description": "Nurturing young hearts with the love of God through engaging Bible stories, activities, and a safe environment where kids can grow in faith." },
+      "youth": { "title": "Youth Ministry", "description": "Empowering the next generation to live boldly for Christ through relevant teachings, mentorship, and life-changing events." },
+      "women": { "title": "Women's Ministry", "description": "Equipping women with spiritual and practical tools for success through conferences, small groups, and mentoring programs." },
+      "men": { "title": "Men's Ministry", "description": "Building strong men of faith who lead their families, workplaces, and communities with integrity and purpose." },
+      "worship": { "title": "Worship & Music", "description": "Leading people into God's presence through powerful praise and worship, training musicians and vocalists to serve with excellence." },
+      "bibleStudy": { "title": "Bible Study", "description": "Deepening understanding of God's Word through systematic teaching, small group discussions, and personal study resources." },
+      "missions": { "title": "Missions & Outreach", "description": "Taking the gospel to the ends of the earth and serving communities through evangelism, church planting, and humanitarian aid." },
+      "discipleship": { "title": "Discipleship", "description": "Helping believers grow into mature followers of Christ through one-on-one mentoring, classes, and practical training." },
+      "hospitality": { "title": "Hospitality", "description": "Creating a warm and welcoming environment for everyone who walks through our doors, reflecting God's love through service." }
+    },
+    "cta": {
+      "title": "Ready to Serve?",
+      "description": "There's a place for you in ministry. Use your gifts and talents to make a difference in the lives of others and grow in your faith journey.",
+      "joinButton": "Join a Ministry",
+      "contactButton": "Contact Us"
+    }
+  },
+  "sermons": {
+    "header": {
+      "subtitle": "Sermons",
+      "title": "Messages That Transform",
+      "description": "Access life-changing messages from our services. Watch, listen, or download and grow in your faith journey."
+    },
+    "latest": { "label": "Latest Message" },
+    "recent": { "title": "Recent Sermons", "description": "Explore our collection of powerful messages." },
+    "filters": { "search": "Search sermons...", "all": "All", "categories": "Categories" },
+    "actions": { "watch": "Watch", "listen": "Listen", "download": "Download" },
+    "viewAll": "View All Sermons",
+    "empty": "No sermons available at this time."
+  },
+  "contact": {
+    "header": {
+      "subtitle": "Get In Touch",
+      "title": "Contact Us",
+      "description": "We'd love to hear from you. Reach out to us for prayer requests, inquiries, or just to say hello."
+    },
+    "info": {
+      "address": "Our Address",
+      "phone": "Phone Numbers",
+      "email": "Email Address",
+      "officeHours": "Office Hours"
+    },
+    "form": {
+      "subtitle": "Send a Message",
+      "title": "We're Here to Help",
+      "description": "Fill out the form below and we'll get back to you as soon as possible.",
+      "optional": "optional",
+      "fields": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "subject": "Subject",
+        "message": "Your Message"
+      },
+      "placeholders": {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone": "+237 6 00 00 00 00",
+        "subject": "How can we help?",
+        "message": "Write your message here..."
+      },
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Your message has been sent successfully! We'll get back to you soon.",
+      "error": "Something went wrong. Please try again later.",
+      "validation": {
+        "nameMin": "Name must be at least 2 characters",
+        "emailInvalid": "Please enter a valid email address",
+        "subjectMin": "Subject must be at least 5 characters",
+        "messageMin": "Message must be at least 10 characters"
+      }
+    },
+    "map": {
+      "subtitle": "Find Us",
+      "title": "Visit Our Church",
+      "placeholder": "Map will be displayed here",
+      "directions": "Get Directions"
+    },
+    "prayer": {
+      "title": "Need Prayer?",
+      "description": "We believe in the power of prayer. Our prayer team is ready to stand with you and intercede on your behalf.",
+      "cta": "Submit a Prayer Request",
+      "form": {
+        "request": "Prayer Request",
+        "placeholder": "Share your prayer request with us...",
+        "private": "Keep this request private (only shared with the prayer team)",
+        "success": "Your prayer request has been submitted. We are standing with you in prayer."
+      }
+    }
+  },
+  "giving": {
+    "header": {
+      "subtitle": "Give",
+      "title": "Support the Vision",
+      "description": "Your generosity fuels the mission of making greatness common. Partner with us as we transform lives and impact communities."
+    },
+    "why": {
+      "subtitle": "Why We Give",
+      "title": "The Heart of Giving",
+      "items": {
+        "worship": { "title": "An Act of Worship", "description": "Giving is a form of worship that honors God and acknowledges Him as our ultimate source." },
+        "growth": { "title": "Spiritual Growth", "description": "Giving stretches our faith and helps us grow in our trust and dependence on God." },
+        "community": { "title": "Building Community", "description": "Your contributions help build and sustain a community where lives are transformed." },
+        "impact": { "title": "Global Impact", "description": "Together, we reach beyond our walls to make a difference across the world." }
+      }
+    },
+    "options": {
+      "subtitle": "Ways to Give",
+      "title": "Choose Your Method",
+      "description": "Select the giving option that works best for you. Every contribution makes a difference.",
+      "items": {
+        "tithe": { "title": "Tithes", "description": "Honor God with the first fruits of your increase.", "feature1": "Honors God first", "feature2": "Opens doors of blessing" },
+        "offering": { "title": "Offerings", "description": "Give above and beyond as the Lord leads you.", "feature1": "Freewill giving", "feature2": "Supports church operations" },
+        "missions": { "title": "Missions", "description": "Support the spread of the gospel globally.", "feature1": "Reach the unreached", "feature2": "Support missionaries" },
+        "building": { "title": "Building Fund", "description": "Contribute to the growth of our physical campus.", "feature1": "Expand our facilities", "feature2": "Create space for more" }
+      }
+    },
+    "bank": {
+      "subtitle": "Bank Transfer",
+      "title": "Give via Bank Deposit",
+      "description": "You can also give directly through bank transfer using the details below.",
+      "accountName": "Account Name",
+      "accountNumber": "Account Number",
+      "currency": "Currency"
+    },
+    "cta": {
+      "title": "Ready to Give Online?",
+      "description": "Give securely using your card, mobile money, or bank transfer through our online giving platform.",
+      "card": "Debit/Credit Card",
+      "mobile": "Mobile Money",
+      "online": "Online Banking",
+      "button": "Give Online Now"
+    }
+  }
+}

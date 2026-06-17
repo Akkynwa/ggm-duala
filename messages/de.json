@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "whoWeAre": "Über Uns",
+    "ministries": "Dienste",
+    "sermons": "Predigten",
+    "events": "Veranstaltungen",
+    "give": "Spenden",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "welcome": "Willkommen bei",
+    "churchName": "grace of god mission duala",
+    "tagline": "Lasst uns Großartigkeit alltäglich machen.",
+    "description": "Wir sind nicht nur ein Dienst, sondern eine globale Bewegung, die sich der Stärkung von Menschen mit der transformierenden Kraft biblischer Weisheit und praktischer Prinzipien widmet. Mit einem zukunftsorientierten Ansatz wollen wir unsere vielfältige Gemeinschaft mit den Werkzeugen ausstatten, die sie benötigen, um in jedem Bereich ihres Lebens Großartigkeit zu erreichen.",
+    "findLocation": "Standort finden",
+    "attendOnline": "Online teilnehmen",
+    "becomeMember": "Mitglied werden"
+  },
+  "welcome": {
+    "title": "Du bist hier willkommen!",
+    "description": "Neu hier? Mach dich bereit, eine warme Familie der Liebe zu erleben, in der du befähigt wirst, Großartigkeit im Leben zu umarmen, während du Gott und der Menschheit dienst. In unserem Kern glauben wir daran, anders zu leben und zu führen.",
+    "joinFamily": "Tritt unserer Familie bei"
+  },
+  "events": {
+    "title": "Aktuelles bei GGM !!!",
+    "header": {
+      "subtitle": "Veranstaltungen",
+      "title": "Was bei GGM passiert",
+      "description": "Bleib in Verbindung mit unseren kommenden Gottesdiensten, Konferenzen und Gemeindetreffen. Bei GGM Kamerun ist immer etwas los."
+    },
+    "featured": {
+      "subtitle": "Empfohlene Veranstaltung",
+      "title": "Nicht verpassen"
+    },
+    "upcoming": {
+      "title": "Kommende Veranstaltungen",
+      "description": "Markiere deinen Kalender und sei bei diesen spannenden Events dabei.",
+      "empty": "Derzeit keine kommenden Veranstaltungen. Schau bald wieder vorbei!"
+    },
+    "past": {
+      "title": "Vergangene Veranstaltungen",
+      "description": "Erlebe die Momente unserer früheren Treffen noch einmal.",
+      "empty": "Noch keine vergangenen Veranstaltungen zum Anzeigen."
+    },
+    "calendar": {
+      "title": "Bleib auf dem Laufenden",
+      "description": "Verpasse nie wieder eine Veranstaltung. Abonniere unseren Kalender und erhalte Benachrichtigungen über kommende Gottesdienste, Konferenzen und spezielle Programme.",
+      "cta": "Vollständigen Kalender anzeigen"
+    }
+  },
+  "community": {
+    "title": "Tritt unserer Großartigkeits-Community bei!",
+    "description": "Wir glauben an die Kraft von Verbindungen, Gemeinschaft und die Stärke einer liebevollen Familie. In der Großartigkeits-Community findest du Gleichgesinnte, die deine Interessen teilen und an deiner Seite gehen.",
+    "description2": "Tritt unserer Großartigkeits-Community bei, um geistliches Wachstum und bedeutungsvolle Verbindungen zu erleben.",
+    "cta": "UNSERER COMMUNITY BEITRETEN"
+  },
+  "counselling": {
+    "title": "Brauchst du Beratung?",
+    "description": "Stehst du vor Herausforderungen, suchst du Orientierung oder brauchst du einfach jemanden zum Reden? Wir sind für dich da. Unser engagiertes Beraterteam steht für vertrauliche und mitfühlende Unterstützung kostenlos zur Verfügung.",
+    "cta": "Um Gebet bitten"
+  },
+  "music": {
+    "newAlbum": "Neues Album von EPOP",
+    "albumTitle": "Unsere Anbetung",
+    "listenNow": "Jetzt anhören"
+  },
+  "pastors": {
+    "title": "Lerne unsere leitenden Pastoren kennen",
+    "names": "Pastor Godman & Pastor Micheal",
+    "description": "Die Elevation Church wird von den Pastoren Godman und Bolarinwa Akinlabi geleitet und von einem globalen Team von Pastoren und Dienern unterstützt. PG ist ein erfolgreicher Autor, Redner, Führungsexperte und Beziehungscoach. PB ist eine renommierte Verlegerin, Finanzexpertin und die Organisatorin der Made for More-Konferenz zur Stärkung von Frauen."
+  },
+  "footer": {
+    "attend": "Besuche GGM Kamerun online oder an einem GGM Kamerun Standort.",
+    "stayConnected": "Bleib Verbunden",
+    "getUpdates": "Aktualisierungen erhalten",
+    "watch": "Ansehen",
+    "locations": "Standorte",
+    "give": "Spenden",
+    "careers": "Karriere",
+    "contactUs": "Kontaktiere uns",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsConditions": "Allgemeine Geschäftsbedingungen",
+    "copyright": "© 2026 GGM Kamerun. Alle Rechte vorbehalten."
+  },
+  "theme": {
+    "light": "Hell",
+    "dark": "Dunkel",
+    "system": "System"
+  },
+  "language": {
+    "switch": "Sprache wechseln"
+  },
+  "about": {
+    "hero": {
+      "subtitle": "Wer wir sind",
+      "title": "Über GGM Kamerun"
+    },
+    "story": {
+      "subtitle": "Unsere Reise",
+      "title": "Die Geschichte von GGM Kamerun",
+      "paragraph1": "GGM Kamerun entstand aus einem göttlichen Auftrag, Menschen mit der transformierenden Kraft biblischer Weisheit und praktischer Prinzipien zu stärken. Aus bescheidenen Anfängen hat Gott diesen Dienst zu einer globalen Bewegung wachsen lassen.",
+      "paragraph2": "Unsere Reise war geprägt von Glauben, Ausdauer und einem unerschütterlichen Engagement, Großartigkeit alltäglich zu machen. Jeder Schritt wurde vom Heiligen Geist geleitet und von der Leidenschaft angetrieben, Leben verändert zu sehen.",
+      "paragraph3": "Heute stehen wir als Zeugnis der Treue Gottes, mit Tausenden berührten Leben, veränderten Gemeinschaften und einer Vision, die sich weiterhin über Nationen ausbreitet."
+    },
+    "mission": {
+      "title": "Unsere Mission",
+      "description": "Menschen mit der transformierenden Kraft biblischer Weisheit und praktischer Prinzipien zu stärken und sie zu befähigen, in jedem Bereich ihres Lebens Großartigkeit zu erreichen."
+    },
+    "vision": {
+      "title": "Unsere Vision",
+      "description": "Eine globale Bewegung befähigter Menschen zu sein, die Großartigkeit alltäglich machen und Gesellschaften durch die Kraft von Gottes Wort und praktischer Exzellenz verändern."
+    },
+    "purpose": {
+      "title": "Unser Zweck",
+      "description": "Eine Gemeinschaft von Gläubigen aufzubauen, die anders leben und führen und die Realität von Gottes Reich in jedem Einflussbereich demonstrieren."
+    },
+    "values": {
+      "subtitle": "Wofür wir stehen",
+      "title": "Unsere Kernwerte",
+      "description": "Diese Werte definieren, wer wir sind, und leiten alles, was wir tun.",
+      "items": {
+        "faith": { "title": "Glaube", "description": "Wir glauben an die Kraft Gottes, das Unmögliche zu tun." },
+        "excellence": { "title": "Exzellenz", "description": "Wir geben unser Bestes in allem, was wir für Gott tun." },
+        "love": { "title": "Liebe", "description": "Wir zeigen Gottes Liebe jedem ohne Bedingungen." },
+        "integrity": { "title": "Integrität", "description": "Wir halten die höchsten Standards von Ehrlichkeit und Charakter aufrecht." },
+        "service": { "title": "Dienst", "description": "Wir dienen Gott und der Menschheit mit Demut und Hingabe." },
+        "community": { "title": "Gemeinschaft", "description": "Wir glauben an die Kraft echter Verbindungen und Gemeinschaft." },
+        "growth": { "title": "Wachstum", "description": "Wir sind der kontinuierlichen geistlichen und persönlichen Entwicklung verpflichtet." },
+        "worship": { "title": "Anbetung", "description": "Wir drücken unsere Liebe zu Gott durch herzliches Lob und Anbetung aus." }
+      }
+    },
+    "leadership": {
+      "subtitle": "Unsere Leiter",
+      "title": "Lerne unsere leitenden Pastoren kennen",
+      "description": "Von Gott berufen, sein Volk mit Weisheit und Liebe zu hüten.",
+      "pastor1": "Pastor Micheal",
+      "globalLeadPastor": "Leitender Globaler Pastor",
+      "pastor1Bio": "Ein erfolgreicher Autor, Redner, Führungsexperte und Beziehungscoach mit Leidenschaft für die Stärkung von Führungskräften.",
+      "pastor2": "Pastor ..",
+      "globalCoLeadPastor": "Co-Leitende Globale Pastorin",
+      "pastor2Bio": "Eine renommierte Verlegerin, Finanzexpertin und Organisatorin der Made for More-Konferenz zur Stärkung von Frauen.",
+      "cta": "Erfahre mehr über unsere Pastoren"
+    }
+  },
+  "ministries": {
+    "header": {
+      "subtitle": "Unsere Dienste",
+      "title": "Engagiere dich & Diene",
+      "description": "Entdecke einen Ort, an dem du wachsen, dich verbinden und etwas bewirken kannst. Bei GGM Kamerun gibt es einen Dienst für jeden."
+    },
+    "items": {
+      "children": { "title": "Kinderdienst", "description": "Junge Herzen mit der Liebe Gottes nähren durch fesselnde Bibelgeschichten, Aktivitäten und eine sichere Umgebung, in der Kinder im Glauben wachsen können." },
+      "youth": { "title": "Jugenddienst", "description": "Die nächste Generation befähigen, mutig für Christus zu leben durch relevante Lehren, Mentoring und lebensverändernde Events." },
+      "women": { "title": "Frauendienst", "description": "Frauen mit geistlichen und praktischen Werkzeugen für Erfolg ausstatten durch Konferenzen, Kleingruppen und Mentoring-Programme." },
+      "men": { "title": "Männerdienst", "description": "Starke Männer des Glaubens aufbauen, die ihre Familien, Arbeitsplätze und Gemeinschaften mit Integrität und Zielstrebigkeit führen." },
+      "worship": { "title": "Lobpreis & Musik", "description": "Menschen in Gottes Gegenwart führen durch kraftvollen Lobpreis und Anbetung, Ausbildung von Musikern und Sängern, um mit Exzellenz zu dienen." },
+      "bibleStudy": { "title": "Bibelstudium", "description": "Das Verständnis von Gottes Wort vertiefen durch systematische Lehre, Kleingruppendiskussionen und persönliche Studienressourcen." },
+      "missions": { "title": "Mission & Öffentlichkeitsarbeit", "description": "Das Evangelium bis an die Enden der Erde tragen und Gemeinschaften durch Evangelisation, Gemeindegründung und humanitäre Hilfe dienen." },
+      "discipleship": { "title": "Jüngerschaft", "description": "Gläubigen helfen, zu reifen Nachfolgern Christi heranzuwachsen durch Eins-zu-Eins-Mentoring, Kurse und praktische Ausbildung." },
+      "hospitality": { "title": "Gastfreundschaft", "description": "Eine warme und einladende Umgebung für jeden schaffen, der durch unsere Türen kommt, und Gottes Liebe durch Dienst widerspiegeln." }
+    },
+    "cta": {
+      "title": "Bereit zu dienen?",
+      "description": "Es gibt einen Platz für dich im Dienst. Nutze deine Gaben und Talente, um im Leben anderer einen Unterschied zu machen und auf deinem Glaubensweg zu wachsen.",
+      "joinButton": "Einem Dienst beitreten",
+      "contactButton": "Kontaktiere uns"
+    }
+  },
+  "sermons": {
+    "header": {
+      "subtitle": "Predigten",
+      "title": "Botschaften, die verändern",
+      "description": "Greife auf lebensverändernde Botschaften aus unseren Gottesdiensten zu. Schau, höre oder lade herunter und wachse auf deinem Glaubensweg."
+    },
+    "latest": { "label": "Neueste Botschaft" },
+    "recent": { "title": "Aktuelle Predigten", "description": "Entdecke unsere Sammlung kraftvoller Botschaften." },
+    "filters": { "search": "Predigten durchsuchen...", "all": "Alle", "categories": "Kategorien" },
+    "actions": { "watch": "Ansehen", "listen": "Anhören", "download": "Herunterladen" },
+    "viewAll": "Alle Predigten anzeigen",
+    "empty": "Derzeit keine Predigten verfügbar."
+  },
+  "contact": {
+    "header": {
+      "subtitle": "Kontakt aufnehmen",
+      "title": "Kontaktiere uns",
+      "description": "Wir würden gerne von dir hören. Melde dich bei uns für Gebetsanliegen, Anfragen oder einfach um Hallo zu sagen."
+    },
+    "info": {
+      "address": "Unsere Adresse",
+      "phone": "Telefonnummern",
+      "email": "E-Mail-Adresse",
+      "officeHours": "Bürozeiten"
+    },
+    "form": {
+      "subtitle": "Sende eine Nachricht",
+      "title": "Wir sind hier, um zu helfen",
+      "description": "Fülle das untenstehende Formular aus und wir werden uns so schnell wie möglich bei dir melden.",
+      "optional": "optional",
+      "fields": {
+        "name": "Vollständiger Name",
+        "email": "E-Mail-Adresse",
+        "phone": "Telefonnummer",
+        "subject": "Betreff",
+        "message": "Deine Nachricht"
+      },
+      "placeholders": {
+        "name": "Max Mustermann",
+        "email": "max@beispiel.com",
+        "phone": "+237 6 00 00 00 00",
+        "subject": "Wie können wir helfen?",
+        "message": "Schreibe deine Nachricht hier..."
+      },
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "success": "Deine Nachricht wurde erfolgreich gesendet! Wir werden uns bald bei dir melden.",
+      "error": "Etwas ist schief gelaufen. Bitte versuche es später erneut.",
+      "validation": {
+        "nameMin": "Der Name muss mindestens 2 Zeichen lang sein",
+        "emailInvalid": "Bitte gib eine gültige E-Mail-Adresse ein",
+        "subjectMin": "Der Betreff muss mindestens 5 Zeichen lang sein",
+        "messageMin": "Die Nachricht muss mindestens 10 Zeichen lang sein"
+      }
+    },
+    "map": {
+      "subtitle": "Finde uns",
+      "title": "Besuche unsere Kirche",
+      "placeholder": "Karte wird hier angezeigt",
+      "directions": "Route anzeigen"
+    },
+    "prayer": {
+      "title": "Brauchst du Gebet?",
+      "description": "Wir glauben an die Kraft des Gebets. Unser Gebetsteam ist bereit, mit dir zu stehen und für dich einzutreten.",
+      "cta": "Ein Gebetsanliegen einreichen",
+      "form": {
+        "request": "Gebetsanliegen",
+        "placeholder": "Teile dein Gebetsanliegen mit uns...",
+        "private": "Diese Anfrage vertraulich behandeln (nur mit dem Gebetsteam geteilt)",
+        "success": "Dein Gebetsanliegen wurde eingereicht. Wir stehen im Gebet mit dir."
+      }
+    }
+  },
+  "giving": {
+    "header": {
+      "subtitle": "Spenden",
+      "title": "Unterstütze die Vision",
+      "description": "Deine Großzügigkeit treibt die Mission an, Großartigkeit alltäglich zu machen. Werde Partner mit uns, während wir Leben verändern und Gemeinschaften beeinflussen."
+    },
+    "why": {
+      "subtitle": "Warum wir geben",
+      "title": "Das Herz des Gebens",
+      "items": {
+        "worship": { "title": "Ein Akt der Anbetung", "description": "Geben ist eine Form der Anbetung, die Gott ehrt und Ihn als unsere ultimative Quelle anerkennt." },
+        "growth": { "title": "Geistliches Wachstum", "description": "Geben dehnt unseren Glauben und hilft uns, in unserem Vertrauen und unserer Abhängigkeit von Gott zu wachsen." },
+        "community": { "title": "Gemeinschaft aufbauen", "description": "Deine Beiträge helfen, eine Gemeinschaft aufzubauen und zu erhalten, in der Leben verändert werden." },
+        "impact": { "title": "Globale Auswirkung", "description": "Gemeinsam reichen wir über unsere Mauern hinaus, um einen Unterschied in der Welt zu machen." }
+      }
+    },
+    "options": {
+      "subtitle": "Wege zu geben",
+      "title": "Wähle deine Methode",
+      "description": "Wähle die Spendenoption, die für dich am besten funktioniert. Jeder Beitrag macht einen Unterschied.",
+      "items": {
+        "tithe": { "title": "Zehnten", "description": "Ehre Gott mit den Erstlingen deines Einkommens.", "feature1": "Ehrt Gott zuerst", "feature2": "Öffnet Türen des Segens" },
+        "offering": { "title": "Opfergaben", "description": "Gib darüber hinaus, wie der Herr dich führt.", "feature1": "Freiwillige Gabe", "feature2": "Unterstützt die Gemeindearbeit" },
+        "missions": { "title": "Mission", "description": "Unterstütze die weltweite Verbreitung des Evangeliums.", "feature1": "Die Unerreichten erreichen", "feature2": "Missionare unterstützen" },
+        "building": { "title": "Baufonds", "description": "Trage zum Wachstum unseres Campus bei.", "feature1": "Erweitere unsere Einrichtungen", "feature2": "Schaffe Raum für mehr" }
+      }
+    },
+    "bank": {
+      "subtitle": "Banküberweisung",
+      "title": "Per Bankeinzahlung spenden",
+      "description": "Du kannst auch direkt per Banküberweisung mit den untenstehenden Details spenden.",
+      "accountName": "Kontoinhaber",
+      "accountNumber": "Kontonummer",
+      "currency": "Währung"
+    },
+    "cta": {
+      "title": "Bereit, online zu spenden?",
+      "description": "Spende sicher mit deiner Karte, Mobile Money oder Banküberweisung über unsere Online-Spendenplattform.",
+      "card": "Debit-/Kreditkarte",
+      "mobile": "Mobile Money",
+      "online": "Online-Banking",
+      "button": "Jetzt online spenden"
+    }
+  }
+}

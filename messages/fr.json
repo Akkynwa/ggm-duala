@@ -1,0 +1,290 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "whoWeAre": "Qui Nous Sommes",
+    "ministries": "Ministères",
+    "sermons": "Prédications",
+    "events": "Événements",
+    "give": "Donner",
+    "contact": "Contact"
+  },
+  "home": {
+   "hero": {
+    "welcome": "Bienvenue à",
+    "churchName": "Grace of God mission duala",
+    "tagline": "Rendons la grandeur commune.",
+    "description": "Nous ne sommes pas seulement un ministère, mais un mouvement mondial dédié à l'autonomisation des individus avec la puissance transformatrice de la sagesse biblique et des principes pratiques. Avec une approche tournée vers l'avenir, nous visons à équiper notre communauté diversifiée avec les outils nécessaires pour atteindre la grandeur dans tous les aspects de leur vie.",
+    "findLocation": "Trouver un lieu",
+    "attendOnline": "Assister en ligne",
+    "becomeMember": "Devenir membre"
+  }
+},
+  "welcome": {
+    "title": "Vous êtes les bienvenus ici !",
+    "description": "Nouveau ici ? Préparez-vous à vivre une famille chaleureuse d'amour, où vous êtes habilité à embrasser la grandeur dans la vie tout en servant Dieu et l'humanité. Au cœur de notre démarche, nous croyons en une façon de vivre et de diriger différente.",
+    "joinFamily": "Rejoindre notre famille"
+  },
+  "events": {
+    "title": "Événements à GGM !!!",
+    "header": {
+      "subtitle": "Événements",
+      "title": "Ce Qui Se Passe à GGM",
+      "description": "Restez connecté avec nos services à venir, conférences et rassemblements communautaires. Il se passe toujours quelque chose à GGM Cameroun."
+    },
+    "featured": {
+      "subtitle": "Événement en Vedette",
+      "title": "À Ne Pas Manquer"
+    },
+    "upcoming": {
+      "title": "Événements à Venir",
+      "description": "Marquez votre calendrier et rejoignez-nous pour ces événements passionnants.",
+      "empty": "Aucun événement à venir pour le moment. Revenez bientôt !"
+    },
+    "past": {
+      "title": "Événements Passés",
+      "description": "Revivez les moments de nos rassemblements précédents.",
+      "empty": "Aucun événement passé à afficher pour le moment."
+    },
+    "calendar": {
+      "title": "Restez Informé",
+      "description": "Ne manquez jamais un événement. Abonnez-vous à notre calendrier et recevez des notifications sur les services, conférences et programmes spéciaux à venir.",
+      "cta": "Voir le Calendrier Complet"
+    }
+  },
+  "community": {
+    "title": "Rejoignez notre Communauté de grandeur !",
+    "description": "Nous croyons au pouvoir des connexions, de la communauté et de la force d'une famille aimante. Dans la communauté de grandeur, vous trouverez des personnes partageant les mêmes idées qui partagent vos intérêts et cheminent à vos côtés.",
+    "description2": "Rejoignez notre communauté de grandeur pour expérimenter la croissance spirituelle et des connexions significatives.",
+    "cta": "REJOINDRE NOTRE COMMUNAUTÉ"
+  },
+  "counselling": {
+    "title": "Besoin de Conseil ?",
+    "description": "Si vous faites face à des défis, cherchez des conseils ou avez simplement besoin de parler à quelqu'un, nous sommes là pour vous. Notre équipe dédiée de conseillers est disponible pour fournir un soutien confidentiel et compatissant, gratuitement.",
+    "cta": "Demander une prière"
+  },
+  "music": {
+    "newAlbum": "Nouvel Album d'EPOP",
+    "albumTitle": "Notre Louange",
+    "listenNow": "Écouter maintenant"
+  },
+  "pastors": {
+    "title": "Rencontrez nos Pasteurs Principaux Mondiaux",
+    "names": "Pasteur Godman & Pasteur Bola Akinlabi",
+    "description": "The Elevation Church est dirigée par les pasteurs Godman et Bolarinwa Akinlabi et soutenue par une équipe mondiale de pasteurs et de ministres. PG est un auteur accompli, conférencier, expert en leadership et coach relationnel. PB est une éditrice renommée, experte en finance et organisatrice de la conférence Made for More pour l'autonomisation des femmes."
+  },
+  "footer": {
+    "attend": "Assistez à GGM Cameroun en ligne ou dans un lieu GGM Cameroun.",
+    "stayConnected": "Restez Connecté",
+    "getUpdates": "Obtenir les Mises à Jour",
+    "watch": "Regarder",
+    "locations": "Lieux",
+    "give": "Donner",
+    "careers": "Carrières",
+    "contactUs": "Contactez-nous",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsConditions": "Conditions générales",
+    "copyright": "© 2026 GGM Cameroun. Tous droits réservés."
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système"
+  },
+  "language": {
+    "switch": "Changer de langue"
+  },
+  "about": {
+    "hero": {
+      "subtitle": "Qui Nous Sommes",
+      "title": "À Propos de GGM Cameroun"
+      
+    },
+    "story": {
+      "subtitle": "Notre Parcours",
+      "title": "L'Histoire de GGM Cameroun",
+      "paragraph1": "GGM Cameroun est né d'un mandat divin pour autonomiser les individus avec la puissance transformatrice de la sagesse biblique et des principes pratiques. Depuis des débuts modestes, Dieu a fait grandir ce ministère en un mouvement mondial.",
+      "paragraph2": "Notre parcours a été marqué par la foi, la persévérance et un engagement inébranlable à rendre la grandeur commune. Chaque étape a été guidée par le Saint-Esprit et alimentée par la passion de voir des vies transformées.",
+      "paragraph3": "Aujourd'hui, nous sommes un témoignage de la fidélité de Dieu, avec des milliers de vies touchées, des communautés transformées et une vision qui continue de s'étendre à travers les nations."
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Autonomiser les individus avec la puissance transformatrice de la sagesse biblique et des principes pratiques, les équipant pour atteindre la grandeur dans chaque aspect de leur vie."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "description": "Être un mouvement mondial d'individus autonomes rendant la grandeur commune, transformant les sociétés par la puissance de la Parole de Dieu et l'excellence pratique."
+    },
+    "purpose": {
+      "title": "Notre Objectif",
+      "description": "Élever une communauté de croyants qui vivent et dirigent différemment, démontrant la réalité du royaume de Dieu dans chaque sphère d'influence."
+    },
+    "values": {
+      "subtitle": "Ce Que Nous Défendons",
+      "title": "Nos Valeurs Fondamentales",
+      "description": "Ces valeurs définissent qui nous sommes et guident tout ce que nous faisons.",
+      "items": {
+        "faith": { "title": "Foi", "description": "Nous croyons au pouvoir de Dieu de faire l'impossible." },
+        "excellence": { "title": "Excellence", "description": "Nous donnons notre meilleur dans tout ce que nous faisons pour Dieu." },
+        "love": { "title": "Amour", "description": "Nous démontrons l'amour de Dieu à tous sans condition." },
+        "integrity": { "title": "Intégrité", "description": "Nous maintenons les plus hauts standards d'honnêteté et de caractère." },
+        "service": { "title": "Service", "description": "Nous servons Dieu et l'humanité avec humilité et dévouement." },
+        "community": { "title": "Communauté", "description": "Nous croyons au pouvoir des connexions authentiques et de la fraternité." },
+        "growth": { "title": "Croissance", "description": "Nous sommes engagés dans le développement spirituel et personnel continu." },
+        "worship": { "title": "Adoration", "description": "Nous exprimons notre amour pour Dieu par une louange et une adoration sincères." }
+      }
+    },
+    "leadership": {
+      "subtitle": "Nos Dirigeants",
+      "title": "Rencontrez Nos Pasteurs Principaux",
+      "description": "Appelés par Dieu pour paître Son peuple avec sagesse et amour.",
+      "pastor1": "Pasteur Micheal",
+      "globalLeadPastor": "Pasteur Principal",
+      "pastor1Bio": "Un auteur accompli, conférencier, expert en leadership et coach relationnel passionné par l'autonomisation des leaders.",
+      "pastor2": "Pasteur ..",
+      "globalCoLeadPastor": "Co-Pasteur Principal",
+      "pastor2Bio": "Une éditrice renommée, experte en finance et organisatrice de la conférence Made for More pour l'autonomisation des femmes.",
+      "cta": "En Savoir Plus Sur Nos Pasteurs"
+    }
+  },
+  "ministries": {
+    "header": {
+      "subtitle": "Nos Ministères",
+      "title": "Impliquez-vous et Servez",
+      "description": "Découvrez un endroit où vous pouvez grandir, vous connecter et faire une différence. Il y a un ministère pour chacun à GGM Cameroun."
+    },
+    "items": {
+      "children": { "title": "Ministère des Enfants", "description": "Nourrir les jeunes cœurs avec l'amour de Dieu à travers des histoires bibliques engageantes, des activités et un environnement sûr où les enfants peuvent grandir dans la foi." },
+      "youth": { "title": "Ministère de la Jeunesse", "description": "Autonomiser la prochaine génération à vivre audacieusement pour Christ à travers des enseignements pertinents, du mentorat et des événements transformateurs." },
+      "women": { "title": "Ministère des Femmes", "description": "Équiper les femmes avec des outils spirituels et pratiques pour réussir à travers des conférences, des petits groupes et des programmes de mentorat." },
+      "men": { "title": "Ministère des Hommes", "description": "Bâtir des hommes de foi forts qui dirigent leurs familles, leurs lieux de travail et leurs communautés avec intégrité et détermination." },
+      "worship": { "title": "Louange et Musique", "description": "Conduire les gens dans la présence de Dieu par une louange et une adoration puissantes, formant des musiciens et des chanteurs à servir avec excellence." },
+      "bibleStudy": { "title": "Étude Biblique", "description": "Approfondir la compréhension de la Parole de Dieu par un enseignement systématique, des discussions en petits groupes et des ressources d'étude personnelle." },
+      "missions": { "title": "Missions et Action Sociale", "description": "Porter l'évangile jusqu'aux extrémités de la terre et servir les communautés par l'évangélisation, l'implantation d'églises et l'aide humanitaire." },
+      "discipleship": { "title": "Discipulat", "description": "Aider les croyants à devenir des disciples matures de Christ par le mentorat individuel, des cours et une formation pratique." },
+      "hospitality": { "title": "Accueil", "description": "Créer un environnement chaleureux et accueillant pour tous ceux qui franchissent nos portes, reflétant l'amour de Dieu par le service." }
+    },
+    "cta": {
+      "title": "Prêt à Servir ?",
+      "description": "Il y a une place pour vous dans le ministère. Utilisez vos dons et talents pour faire une différence dans la vie des autres et grandir dans votre parcours de foi.",
+      "joinButton": "Rejoindre un Ministère",
+      "contactButton": "Contactez-nous"
+    }
+  },
+  "sermons": {
+    "header": {
+      "subtitle": "Prédications",
+      "title": "Des Messages Qui Transforment",
+      "description": "Accédez à des messages qui changent des vies depuis nos services. Regardez, écoutez ou téléchargez et grandissez dans votre parcours de foi."
+    },
+    "latest": { "label": "Dernier Message" },
+    "recent": { "title": "Prédications Récentes", "description": "Explorez notre collection de messages puissants." },
+    "filters": { "search": "Rechercher des prédications...", "all": "Tout", "categories": "Catégories" },
+    "actions": { "watch": "Regarder", "listen": "Écouter", "download": "Télécharger" },
+    "viewAll": "Voir Toutes les Prédications",
+    "empty": "Aucune prédication disponible pour le moment."
+  },
+  "contact": {
+    "header": {
+      "subtitle": "Contactez-Nous",
+      "title": "Prenez Contact",
+      "description": "Nous aimerions avoir de vos nouvelles. Contactez-nous pour des demandes de prière, des questions ou simplement pour dire bonjour."
+    },
+    "info": {
+      "address": "Notre Adresse",
+      "phone": "Numéros de Téléphone",
+      "email": "Adresse Email",
+      "officeHours": "Heures de Bureau"
+    },
+    "form": {
+      "subtitle": "Envoyez un Message",
+      "title": "Nous Sommes Là Pour Vous Aider",
+      "description": "Remplissez le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.",
+      "optional": "optionnel",
+      "fields": {
+        "name": "Nom Complet",
+        "email": "Adresse Email",
+        "phone": "Numéro de Téléphone",
+        "subject": "Sujet",
+        "message": "Votre Message"
+      },
+      "placeholders": {
+        "name": "Jean Dupont",
+        "email": "jean@exemple.com",
+        "phone": "+237 6 00 00 00 00",
+        "subject": "Comment pouvons-nous aider ?",
+        "message": "Écrivez votre message ici..."
+      },
+      "submit": "Envoyer le Message",
+      "sending": "Envoi en cours...",
+      "success": "Votre message a été envoyé avec succès ! Nous vous répondrons bientôt.",
+      "error": "Quelque chose s'est mal passé. Veuillez réessayer plus tard.",
+      "validation": {
+        "nameMin": "Le nom doit comporter au moins 2 caractères",
+        "emailInvalid": "Veuillez entrer une adresse email valide",
+        "subjectMin": "Le sujet doit comporter au moins 5 caractères",
+        "messageMin": "Le message doit comporter au moins 10 caractères"
+      }
+    },
+    "map": {
+      "subtitle": "Trouvez-Nous",
+      "title": "Visitez Notre Église",
+      "placeholder": "La carte sera affichée ici",
+      "directions": "Obtenir l'Itinéraire"
+    },
+    "prayer": {
+      "title": "Besoin de Prière ?",
+      "description": "Nous croyons au pouvoir de la prière. Notre équipe de prière est prête à se tenir avec vous et à intercéder en votre faveur.",
+      "cta": "Soumettre une Demande de Prière",
+      "form": {
+        "request": "Sujet de Prière",
+        "placeholder": "Partagez votre demande de prière avec nous...",
+        "private": "Garder cette demande privée (partagée uniquement avec l'équipe de prière)",
+        "success": "Votre demande de prière a été soumise. Nous nous tenons avec vous dans la prière."
+      }
+    }
+  },
+  "giving": {
+    "header": {
+      "subtitle": "Donner",
+      "title": "Soutenez la Vision",
+      "description": "Votre générosité alimente la mission de rendre la grandeur commune. Associez-vous à nous pour transformer des vies et impacter les communautés."
+    },
+    "why": {
+      "subtitle": "Pourquoi Nous Donnons",
+      "title": "Le Cœur du Don",
+      "items": {
+        "worship": { "title": "Un Acte d'Adoration", "description": "Donner est une forme d'adoration qui honore Dieu et Le reconnaît comme notre source ultime." },
+        "growth": { "title": "Croissance Spirituelle", "description": "Donner étire notre foi et nous aide à grandir dans notre confiance et dépendance envers Dieu." },
+        "community": { "title": "Bâtir la Communauté", "description": "Vos contributions aident à construire et maintenir une communauté où les vies sont transformées." },
+        "impact": { "title": "Impact Mondial", "description": "Ensemble, nous atteignons au-delà de nos murs pour faire une différence à travers le monde." }
+      }
+    },
+    "options": {
+      "subtitle": "Façons de Donner",
+      "title": "Choisissez Votre Méthode",
+      "description": "Sélectionnez l'option de don qui vous convient le mieux. Chaque contribution fait une différence.",
+      "items": {
+        "tithe": { "title": "Dîmes", "description": "Honorez Dieu avec les prémices de votre augmentation.", "feature1": "Honore Dieu en premier", "feature2": "Ouvre des portes de bénédiction" },
+        "offering": { "title": "Offrandes", "description": "Donnez au-delà selon que le Seigneur vous conduit.", "feature1": "Don volontaire", "feature2": "Soutient les opérations de l'église" },
+        "missions": { "title": "Missions", "description": "Soutenez la propagation de l'évangile dans le monde.", "feature1": "Atteindre les non-atteints", "feature2": "Soutenir les missionnaires" },
+        "building": { "title": "Fonds de Construction", "description": "Contribuez à la croissance de notre campus physique.", "feature1": "Agrandir nos installations", "feature2": "Créer de l'espace pour plus" }
+      }
+    },
+    "bank": {
+      "subtitle": "Virement Bancaire",
+      "title": "Donner par Dépôt Bancaire",
+      "description": "Vous pouvez également donner directement par virement bancaire en utilisant les détails ci-dessous.",
+      "accountName": "Nom du Compte",
+      "accountNumber": "Numéro de Compte",
+      "currency": "Devise"
+    },
+    "cta": {
+      "title": "Prêt à Donner en Ligne ?",
+      "description": "Donnez en toute sécurité par carte, mobile money ou virement bancaire via notre plateforme de dons en ligne.",
+      "card": "Carte de Débit/Crédit",
+      "mobile": "Mobile Money",
+      "online": "Banque en Ligne",
+      "button": "Donner en Ligne Maintenant"
+    }
+  }
+}
