@@ -285,5 +285,23 @@
       "online": "Online Banking",
       "button": "Give Online Now"
     }
+  },
+  "leadPastors": {
+  "hero": {
+    "subtitle": "Leadership",
+    "title": "Meet Our Global Lead Pastors"
+  },
+  "bio": {
+    "description": "Pastor Godman Akinlabi, as the Global Lead Pastor, is a transformative leader. Pastor Bola Akinlabi, the Global Co-Lead Pastor, brings over a decade of finance experience.",
+    "pastorGodmanName": "Pastor Godman Akinlabi",
+    "pastorGodmanLink": "https://godmanakinlabi.org",
+    "pastorGodmanDescription": "as the Global Lead Pastor, is a transformative leader, teacher, and global conference speaker. His commitment to empowering leaders and making a positive impact on societies is evident through initiatives like the Pistis Foundation and events such as the Exponential Conference and Gravity.",
+    "pastorBolaName": "Pastor Bola Akinlabi",
+    "pastorBolaDescription": "the Global Co-Lead Pastor, brings over a decade of finance experience and a heart for women's empowerment. She pioneers Jewels, the Women's Ministry, and hosts the annual Made for More Conference, equipping women with spiritual and practical tools for success.",
+    "together": "Together, Pastor Godman and Bola Akinlabi lead the church's global expansion, impacting lives across continents and cultures."
+  },
+  "image": {
+    "caption": "The Elevation Church is supported by a global team of Pastors and Ministers."
   }
+}
 }

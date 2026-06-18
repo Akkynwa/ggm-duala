@@ -283,5 +283,23 @@
       "online": "Online-Banking",
       "button": "Jetzt online spenden"
     }
+  },
+  "leadPastors": {
+  "hero": {
+    "subtitle": "Leitung",
+    "title": "Lerne unsere leitenden Pastoren kennen"
+  },
+  "bio": {
+    "description": "Pastor Godman Akinlabi ist ein transformativer Leiter. Pastor Bola Akinlabi bringt über ein Jahrzehnt Finanzerfahrung mit.",
+    "pastorGodmanName": "Pastor Godman Akinlabi",
+    "pastorGodmanLink": "https://godmanakinlabi.org",
+    "pastorGodmanDescription": "als leitender globaler Pastor ist ein transformativer Leiter, Lehrer und internationaler Konferenzredner. Sein Engagement zur Stärkung von Führungskräften zeigt sich durch Initiativen wie die Pistis Foundation und Veranstaltungen wie die Exponential Conference und Gravity.",
+    "pastorBolaName": "Pastor Bola Akinlabi",
+    "pastorBolaDescription": "die globale Co-Leitpastorin, bringt über ein Jahrzehnt Finanzerfahrung und ein Herz für die Stärkung von Frauen mit. Sie leitet Jewels, den Frauendienst, und veranstaltet die jährliche Made for More-Konferenz.",
+    "together": "Gemeinsam leiten Pastor Godman und Bola Akinlabi die globale Expansion der Kirche und beeinflussen Leben über Kontinente und Kulturen hinweg."
+  },
+  "image": {
+    "caption": "Die Kirche wird von einem globalen Team von Pastoren und Dienern unterstützt."
   }
+}
 }

@@ -14,12 +14,12 @@ export default function HomePage() {
     <>
       <Hero />
       <Welcome />
-      <ServiceTimes />
+      <Gallery />
       <Events />
       <Ministries />
+      <ServiceTimes />
       <Sermons />
       <Testimonials />
-      <Gallery />
       <CallToAction />
     </>
   );

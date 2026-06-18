@@ -123,7 +123,7 @@ export function Hero() {
             <Button
               variant="white"
               size="lg"
-              href="https://onlinechurch.elevationng.org/"
+              href="/"
               external
               className="py-3.5 sm:py-3 font-semibold text-center flex justify-center items-center"
             >

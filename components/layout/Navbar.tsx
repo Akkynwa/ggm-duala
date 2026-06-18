@@ -11,8 +11,7 @@ import { cn } from "@/lib/utils/cn";
 import { ThemeToggle } from "./ThemeToggle";
 import { LanguageSwitcher } from "./LanguageSwitcher";
 import { MobileMenu } from "./MobileMenu";
-import { ExternalLink, Menu} from "lucide-react";
-import { motion } from "framer-motion";
+import { Menu, ArrowUpRight } from "lucide-react";
 
 export function Navbar() {
   const t = useTranslations();
@@ -20,11 +19,10 @@ export function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [logoError, setLogoError] = useState(false);
-  const [hoveredItem, setHoveredItem] = useState<string | null>(null);
 
   useEffect(() => {
     const handleScroll = () => {
-      setIsScrolled(window.scrollY > 20);
+      setIsScrolled(window.scrollY > 15);
     };
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
@@ -39,126 +37,94 @@ export function Navbar() {
     <>
       <header
         className={cn(
-          "fixed left-0 right-0 top-0 z-50 transition-all duration-300",
+          "fixed inset-x-0 top-0 z-50 border-b transition-shadow duration-300 bg-white dark:bg-gray-950",
           isScrolled
-            ? "bg-white/90 shadow-xl shadow-black/[0.03] backdrop-blur-md dark:bg-gray-950/90 border-b border-gray-200/20 dark:border-gray-800/20"
-            : "bg-transparent"
+            ? "shadow-md border-gray-200 dark:border-gray-800"
+            : "border-gray-100 dark:border-gray-900"
         )}
       >
-        {/* Decorative dynamic top accent wire */}
-        <div className="h-[3px] bg-gradient-to-r from-accent via-purple-500 to-accent" />
+        <nav className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8 lg:h-[72px]">
+          
+          {/* Logo */}
+          <Link 
+            href="/" 
+            className="group flex items-center gap-2.5 shrink-0"
+          >
+            <div className="relative flex h-10 w-10 items-center justify-center overflow-hidden border border-gray-200 dark:border-gray-800 bg-gray-50 dark:bg-gray-900">
+              {!logoError ? (
+                <Image
+                  src={siteConfig.logo}
+                  alt={siteConfig.name}
+                  width={40}
+                  height={40}
+                  className="h-8 w-8 object-contain"
+                  onError={() => setLogoError(true)}
+                  priority
+                />
+              ) : (
+                <span className="font-display text-sm font-black text-primary dark:text-accent">
+                  G
+                </span>
+              )}
+            </div>
+            <div className="hidden flex-col sm:flex">
+              <span className="font-display text-sm font-bold tracking-tight text-foreground">
+                {siteConfig.name}
+              </span>
+              <span className="text-[9px] font-medium uppercase tracking-[0.2em] text-muted-foreground">
+                {siteConfig.tagline}
+              </span>
+            </div>
+          </Link>
 
-        <nav className="container-custom px-4 sm:px-6">
-          <div className="flex h-16 items-center justify-between lg:h-[72px]">
-            
-            {/* BRAND LOGO DOCK */}
-            <Link href="/" className="group flex items-center gap-2.5 shrink-0">
-              <div className="relative">
-                {!logoError ? (
-                  <Image
-                    src={siteConfig.logo}
-                    alt={siteConfig.name}
-                    width={44}
-                    height={44}
-                    className="h-9 w-auto xs:h-10 lg:h-11"
-                    onError={() => setLogoError(true)}
-                    priority
-                  />
-                ) : (
-                  <motion.div
-                    whileHover={{ rotate: 15 }}
-                    whileTap={{ scale: 0.95 }}
-                    className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-accent to-yellow-400 font-display text-base font-black text-primary xs:h-10 xs:w-10 lg:h-11 lg:w-11"
-                  >
-                    G
-                  </motion.div>
-                )}
-                <div className="absolute -inset-2 rounded-full bg-accent/10 opacity-0 blur-lg transition-opacity group-hover:opacity-100" />
-              </div>
-              
-              <div className="flex flex-col text-left">
-                <span className="hidden xs:block font-display text-sm font-bold tracking-tight text-primary dark:text-white sm:text-base lg:text-lg leading-tight">
-                  {siteConfig.name}
-                </span>
-                <span className="hidden sm:block text-[9px] font-medium uppercase tracking-[0.18em] text-accent mt-0.5 leading-none">
-                  {siteConfig.tagline}
-                </span>
-              </div>
+          {/* Desktop Nav — plain text with vertical borders */}
+          <div className="hidden h-full lg:flex lg:items-center">
+            {navItems.map((item, index) => {
+              const active = isActive(item.href);
+              return (
+                <Link
+                  key={item.label}
+                  href={item.href}
+                  className={cn(
+                    "relative flex h-full items-center px-5 text-sm font-medium transition-colors duration-200",
+                    index > 0 && "border-l border-gray-200 dark:border-gray-800",
+                    active
+                      ? "text-primary dark:text-white"
+                      : "text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
+                  )}
+                >
+                  {t(item.label)}
+                  {active && (
+                    <span className="absolute bottom-0 left-0 right-0 h-[3px] bg-accent" />
+                  )}
+                </Link>
+              );
+            })}
+          </div>
+
+          {/* Actions */}
+          <div className="flex items-center gap-3">
+            <div className="flex items-center gap-1 border border-gray-200 dark:border-gray-800 p-1">
+              <ThemeToggle />
+              <div className="h-5 w-px bg-gray-200 dark:bg-gray-800" />
+              <LanguageSwitcher />
+            </div>
+
+            <Link
+              href="/giving"
+              className="hidden sm:inline-flex items-center gap-1.5 bg-primary px-5 h-10 text-xs font-bold uppercase tracking-wider text-white transition-colors hover:bg-primary-light dark:bg-white dark:text-primary dark:hover:bg-gray-100"
+            >
+              {t("nav.give")}
+              <ArrowUpRight className="h-3.5 w-3.5" />
             </Link>
 
-            {/* DESKTOP FLUID NAVIGATION PILLS */}
-            <div className="hidden lg:block">
-              <div className="relative flex items-center gap-0.5 rounded-full border border-gray-200/40 bg-gray-100/40 p-1 backdrop-blur-sm dark:border-gray-700/40 dark:bg-gray-800/40">
-                {navItems.map((item) => {
-                  const itemActive = isActive(item.href);
-                  return (
-                    <Link
-                      key={item.label}
-                      href={item.href}
-                      target={item.external ? "_blank" : undefined}
-                      rel={item.external ? "noopener noreferrer" : undefined}
-                      onMouseEnter={() => setHoveredItem(item.label)}
-                      onMouseLeave={() => setHoveredItem(null)}
-                      className={cn(
-                        "relative rounded-full px-4 py-2 text-sm font-medium transition-colors duration-200",
-                        itemActive
-                          ? "text-white dark:text-primary"
-                          : "text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
-                      )}
-                    >
-                      {itemActive && (
-                        <motion.div
-                          layoutId="activeNavPill"
-                          className="absolute inset-0 rounded-full bg-gradient-to-r from-primary to-primary-light dark:from-accent dark:to-yellow-400 shadow-md shadow-primary/15"
-                          transition={{ type: "spring", stiffness: 400, damping: 32 }}
-                        />
-                      )}
-                      <span className="relative z-10 flex items-center gap-1.5">
-                        {t(item.label)}
-                        {item.external && <ExternalLink className="h-3 w-3 opacity-60" />}
-                      </span>
-
-                      {!itemActive && hoveredItem === item.label && (
-                        <motion.span
-                          initial={{ opacity: 0, scale: 0.6 }}
-                          animate={{ opacity: 1, scale: 1 }}
-                          className="absolute -right-0.5 -top-0.5"
-                        >
-                        </motion.span>
-                      )}
-                    </Link>
-                  );
-                })}
-              </div>
-            </div>
-
-            {/* QUICK ACTIONS & MENUS CONTAINER */}
-            <div className="flex items-center gap-1.5 md:gap-2">
-              <div className="flex items-center gap-1 rounded-full border border-gray-200/40 bg-gray-100/40 p-0.5 backdrop-blur-sm dark:border-gray-700/40 dark:bg-gray-800/40">
-                <ThemeToggle />
-                <LanguageSwitcher />
-              </div>
-              
-              <Link
-                href="/giving"
-                className="hidden md:inline-flex items-center gap-1.5 rounded-full bg-accent px-4 py-2 text-xs font-bold text-primary shadow-md shadow-accent/20 transition-all hover:shadow-lg hover:scale-[1.03] active:scale-[0.97] lg:text-sm lg:px-5 lg:py-2.5"
-              >
-                {t("nav.give")}
-              </Link>
-              
-              <button
-                onClick={() => setMobileMenuOpen(true)}
-                className={cn(
-                  "inline-flex items-center justify-center rounded-xl p-2.5 lg:hidden",
-                  "text-gray-700 hover:bg-gray-100 active:bg-gray-200/70",
-                  "dark:text-gray-300 dark:hover:bg-gray-800 dark:active:bg-gray-700/70",
-                  "transition-colors outline-none focus:ring-2 focus:ring-accent/20"
-                )}
-                aria-label="Open menu"
-              >
-                <Menu className="h-6 w-6" />
-              </button>
-            </div>
+            <button
+              onClick={() => setMobileMenuOpen(true)}
+              className="flex h-10 w-10 items-center justify-center border border-gray-200 bg-white text-foreground hover:bg-gray-50 dark:border-gray-800 dark:bg-gray-900 lg:hidden"
+              aria-label="Open menu"
+            >
+              <Menu className="h-5 w-5" />
+            </button>
           </div>
         </nav>
       </header>

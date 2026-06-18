@@ -286,5 +286,23 @@
       "online": "Banque en Ligne",
       "button": "Donner en Ligne Maintenant"
     }
+  },
+  "leadPastors": {
+  "hero": {
+    "subtitle": "Leadership",
+    "title": "Rencontrez Nos Pasteurs Principaux Mondiaux"
+  },
+  "bio": {
+    "description": "Le Pasteur Godman Akinlabi, en tant que Pasteur Principal Mondial, est un leader transformateur. Le Pasteur Bola Akinlabi, Co-Pasteur Principal Mondial, apporte plus d'une décennie d'expérience en finance.",
+    "pastorGodmanName": "Pasteur Godman Akinlabi",
+    "pastorGodmanLink": "https://godmanakinlabi.org",
+    "pastorGodmanDescription": "en tant que Pasteur Principal Mondial, est un leader transformateur, enseignant et conférencier international. Son engagement à autonomiser les leaders et à avoir un impact positif sur les sociétés est évident à travers des initiatives comme la Fondation Pistis et des événements tels que la Conférence Exponentielle et Gravity.",
+    "pastorBolaName": "Pasteur Bola Akinlabi",
+    "pastorBolaDescription": "la Co-Pasteur Principal Mondial, apporte plus d'une décennie d'expérience en finance et un cœur pour l'autonomisation des femmes. Elle est pionnière de Jewels, le Ministère des Femmes, et organise la conférence annuelle Made for More, équipant les femmes d'outils spirituels et pratiques pour réussir.",
+    "together": "Ensemble, les Pasteurs Godman et Bola Akinlabi dirigent l'expansion mondiale de l'église, impactant des vies à travers les continents et les cultures."
+  },
+  "image": {
+    "caption": "L'Église est soutenue par une équipe mondiale de Pasteurs et de Ministres."
   }
+}
 }
