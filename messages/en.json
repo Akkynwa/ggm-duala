@@ -131,19 +131,18 @@
         "growth": { "title": "Growth", "description": "We are committed to continuous spiritual and personal development." },
         "worship": { "title": "Worship", "description": "We express our love for God through heartfelt praise and worship." }
       }
-    },
-    "leadership": {
-      "subtitle": "Our Leaders",
-      "title": "Meet Our Global Lead Pastors",
-      "description": "Called by God to shepherd His people with wisdom and love.",
-      "pastor1": "Pastor Micheal",
-      "LeadPastor": "Global Lead Pastor",
-      "pastor1Bio": "An accomplished author, speaker, leadership expert and relationship coach with a passion for empowering leaders.",
-      "pastor2": "Pastor ..",
-      "globalCoLeadPastor": "Co-Pastor Principal Mondial",
-      "pastor2Bio": "A renowned publisher, finance expert and the convener of Made for More Conference for women's empowerment.",
-      "cta": "Learn More About Our Pastors"
-    }
+    },"leadership": {
+  "subtitle": "Our Leaders",
+  "title": "Meet Our Global Lead Pastors",
+  "description": "Called by God to shepherd His people with wisdom and love.",
+  "pastor1": "Pastor Godman Akinlabi",
+  "globalLeadPastor": "Global Lead Pastor",
+  "pastor1Bio": "An accomplished author, speaker, leadership expert and relationship coach with a passion for empowering leaders.",
+  "pastor2": "Pastor Bolarinwa Akinlabi",
+  "globalCoLeadPastor": "Global Co-Lead Pastor",
+  "pastor2Bio": "A renowned publisher, finance expert and the convener of Made for More Conference for women's empowerment.",
+  "cta": "Learn More About Our Pastors"
+}
   },
   "ministries": {
     "header": {
